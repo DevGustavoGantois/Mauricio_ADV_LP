@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: #E9E9E9;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #003764;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+@layer base {
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .h1 {
+    @apply text-[40px] leading-[40px] lg:text-[60px] lg:leading-[62px] font-bold; /* Added semicolon */
+  }
+
+  .h2 {
+    @apply text-[32px] leading-[40px] lg:text-[50px] lg:leading-[50px] font-bold; /* Added semicolon */
+  }
+
+  .h3 {
+    @apply text-[38px] leading-[46px]; 
+  }
+
+  .h4 {
+    @apply text-[35px] leading-[46px]; /* Added semicolon */
+  }
+
+  .h5 {
+    @apply text-[24px] leading-[32px] font-bold; /* Added semicolon */
+  }
+
+  .h6 {
+    @apply text-[18px] leading-[28px] font-bold; /* Added semicolon */
+  }
+
+}
