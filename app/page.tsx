@@ -13,7 +13,7 @@ export default function Home() {
     <>
     <main>
     <head>
-       <meta name="google-site-verification" content="YYTGdng2CumMVhVlK1mX4XHvwnSaTHncdYAVWsi75GQ" />
+       <meta name="google-site-verification" content="M4Pw1J2X-V6c2FotMav2KX72M48-Zvp0Lhnc9Q4qOnI" />
     </head>
       <Hero />
       <Featured />
