@@ -25,7 +25,7 @@ export function AboutMe() {
             </div>
                 <div className="mt-20 lg:mt-0">
                 <div className="flex flex-col max-w-[650px]">
-                   <p className="">
+                   <p className="lg:mt-40">
                        Maurício Sampaio é advogado com mais de 10 anos de experiência nas áreas de Direito Empresarial, Trabalhista, Tributário e Familiar. Ele oferece consultoria e representação jurídica a clientes de diferentes portes, sempre priorizando a ética e a transparência. Comprometido com a atualização constante de seus conhecimentos, Maurício busca soluções personalizadas para proteger os interesses de seus clientes. 
                    </p>
                 </div>
