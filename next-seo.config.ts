@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     twitter: {
       card: 'summary_large_image',
       site: '@EscritórioMaurícioSampaio',
-      creator: '@mauricioSampaio',
+      creator: '@devgustavogantois_',
       title: 'Escritório de Advocacia Maurício Sampaio',
       description:
         'O Escritório de Advocacia Maurício Sampaio oferece serviços jurídicos de alta qualidade, com uma equipe de advogados experientes e especializados em diversas áreas do Direito, incluindo Direito Civil, Direito Empresarial, Direito Tributário e Direito Trabalhista.',
