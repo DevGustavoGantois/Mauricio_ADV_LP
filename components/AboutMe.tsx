@@ -25,18 +25,9 @@ export function AboutMe() {
             </div>
                 <div className="mt-20 lg:mt-0">
                 <div className="flex flex-col max-w-[650px]">
-                    <div className="flex flex-col gap-4">
-                        <h2 className="h3 font-secondary text-blue_primary">Início da Carreira</h2>
-                        <p className="mb-6 text-gray_primary">Apaixonado pelo Direito desde cedo, Maurício Sampaio inicia sua jornada advocatícia, motivado pelo compromisso com a justiça e pela vontade de fazer a diferença na vida das pessoas.</p>
-                    </div>
-                    <div className="flex flex-col gap-4">
-                        <h2 className="h3 font-secondary text-blue_primary">Mais de uma Década de Experiência</h2>
-                        <p className="mb-6 text-gray_primary">Com mais de 10 anos de atuação, Maurício constrói uma sólida reputação no mercado jurídico, sempre pautado por integridade, ética e excelência técnica. Seu escritório se destaca pelo atendimento personalizado em áreas diversas, como Direito Trabalhista, Familiar e Tributário.</p>
-                    </div>
-                    <div className="flex flex-col gap-4">
-                        <h2 className="h3 font-secondary text-blue_primary">Equilíbrio entre Vida Profissional e Pessoal</h2>
-                        <p className="mb-6 text-gray_primary">Além do trabalho no escritório, Maurício encontra na natureza um refúgio para relaxamento e renovação de energias. A vida ao ar livre se tornou uma paixão, fundamental para manter o equilíbrio necessário entre sua vida profissional intensa e os momentos de descanso.</p>
-                    </div>
+                   <p className="">
+                       Maurício Sampaio é advogado com mais de 10 anos de experiência nas áreas de Direito Empresarial, Trabalhista, Tributário e Familiar. Ele oferece consultoria e representação jurídica a clientes de diferentes portes, sempre priorizando a ética e a transparência. Comprometido com a atualização constante de seus conhecimentos, Maurício busca soluções personalizadas para proteger os interesses de seus clientes. 
+                   </p>
                 </div>
             </div>
         </div>
