@@ -11,7 +11,7 @@ export function Featured() {
         <section className="max-w-[1440px] container mx-auto" id="Services">
             <div className="mt-24 flex flex-col justify-center lg:justify-around items-center lg:flex-row">
             <div>
-                    <h1 className="text-[45px] lg:text-[60px] text-blue_primary text-center lg:text-start font-secondary lg:mt-4">Algumas das áreas na qual <br /> eu atuo</h1>
+                    <h1 className="text-[45px] lg:text-[60px] text-blue_primary text-center lg:text-start font-secondary lg:mt-4">Áreas de atuação</h1>
                 </div>
                 <div>
                     <p className="max-w-[350px] lg:max-w-[550px] text-center text-gray_primary lg:text-start">Com anos de experiência no mercado jurídico, ofereço serviços personalizados para atender às suas necessidades legais com a máxima eficiência e sigilo. Estou pronto(a) para orientá-lo(a) em cada etapa, garantindo um atendimento de excelência e soluções jurídicas precisas.</p>
