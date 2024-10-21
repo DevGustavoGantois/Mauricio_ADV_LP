@@ -6,7 +6,7 @@ export function Hero() {
         <section className="relative" id="Home">
     <div className="flex justify-center items-center -mt-40 -z-10">
         <Image
-        src="/ImgHeroBg.webp"
+        src="/ImgHeroBg.png"
         className="w-full h-[950px] lg:h-[1200px]"
         width={500}
         height={100}
