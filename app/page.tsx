@@ -14,7 +14,7 @@ export default function Home() {
     <>
     <main>
     <Head>
-    <meta name="google-site-verification=YYTGdng2CumMVhVlK1mX4XHvwnSaTHncdYAVWsi75GQ" />
+    <meta name="google-site-verification" content="YYTGdng2CumMVhVlK1mX4XHvwnSaTHncdYAVWsi75GQ" />
     <title>Escritório de Advocacia Maurício Sampaio</title>
     </Head>
       <Hero />
